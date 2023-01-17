@@ -16,4 +16,5 @@ It's nicer to read!
 Yes, but this only affects how they look. All the permissions remain the same, all the words remain the same. They're all the exact same licenses, they just look different.
 
 - **Where are all the other licenses!?**
+
 calm down the repo is new 💀 smh
