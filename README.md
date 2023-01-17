@@ -1,15 +1,10 @@
 # LicenseMD
 
-LicenseMD is a GitHub repository that lists licenses, but on MD format to make it easier to read.
+LicenseMD is a repository that lists licenses, but on MD format to make it easier to read.
 
 Inspired by [IQAndreas/markdown-licenses](https://github.com/IQAndreas/markdown-licenses) that repo is dead af
 
 ## FAQ
-
-- **Where's the MIT license?**
-
-[It's what this is licensed](https://github.com/JuxGD/LicenseMD/blob/main/LICENSE.md).
-
 
 - **Why Markdown?**
 
