@@ -1,6 +1,6 @@
 # MIT No Attribution License
 
-##### Also known as MIT-0.
+Also known as MIT-0.
 
 ## Changes to the file
 
